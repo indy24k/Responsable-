@@ -26,4 +26,4 @@ async def on_member_join(member):
         await channel.send(f"Bienvenue {member.mention} ! 👋")
 
 
-bot.run("MTU2NDIxMjk3OTMxMzE1NjE0Nw.GA29mm.y4JC_eTaL2y1ZUgGY4HBKZGj7syzp8bu-r2WU4")
+bot.run("MTU2NDIxMjk3OTMxMzE1NjE0Nw.Ge8jfa.UzxKm6UXKGV2YqZiaLEoGM929i30OwXppi0kdM")
